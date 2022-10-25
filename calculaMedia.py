@@ -1,5 +1,6 @@
-nota1 = int(input("Nota1: "))
-nota2 = int(input("Nota2: "))
+NOTA1 = int(input("NOTA1: "))
+NOTA2 = int(input("NOTA2: "))
+NOTA3 = int(input("NOTA3: "))
 
-media = (nota1+nota2)/2
+media = (NOTA1+NOTA2)/2
 print("A média é:", media)
